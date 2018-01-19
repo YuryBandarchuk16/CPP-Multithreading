@@ -1,0 +1,3 @@
+/Users/YuryBandarchuk/Documents/Studying/CPP/FuturePromise/CMakeFiles/rebuild_cache.dir
+/Users/YuryBandarchuk/Documents/Studying/CPP/FuturePromise/CMakeFiles/edit_cache.dir
+/Users/YuryBandarchuk/Documents/Studying/CPP/FuturePromise/CMakeFiles/FuturePromise.dir

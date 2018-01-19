@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++    -std=c++14 -pedantic -g -fsanitize=thread -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/FuturePromise.dir/main.cpp.o CMakeFiles/FuturePromise.dir/ThreadPool.cpp.o  -o FuturePromise 
