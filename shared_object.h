@@ -115,7 +115,7 @@ private:
 /** TEMPLATE SPECIALIZATION **/
 
 
-/*
+
 template<>
 class shared_object<void> {
 public:
@@ -242,6 +242,6 @@ private:
         }
     }
 };
- */
+ 
 
 #endif //FUTUREPROMISE_SHARED_OBJECT_H

@@ -57,7 +57,6 @@ void ThreadPool::runnable() {
 }
 
 ThreadPool& ThreadPool::sharedInstance() {
-
     static ThreadPool pool(10);
     return pool;
 }

@@ -51,8 +51,6 @@ private:
 
 /** TEMPLATE SPECIALIZATION! **/
 
-/*
-
 template<>
 class Promise<void> {
 public:
@@ -119,5 +117,5 @@ public:
 private:
     std::shared_ptr<shared_object<T&>> shared_data;
 };
-*/
+
 #endif //FUTUREPROMISE_PROMISE_H

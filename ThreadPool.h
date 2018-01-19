@@ -26,7 +26,6 @@ class ThreadPool {
 
 public:
 
-
     static const size_t num_threads_default = 100;
 
     static ThreadPool& sharedInstance();
